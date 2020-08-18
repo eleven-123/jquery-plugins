@@ -44,7 +44,7 @@ github 官网     https://github.com/alvarotrigo/fullPage.js
     <div class="section">第四屏</div>
 </div>
 ~~~
-![image](https://github.com/eleven-123/jquery-plugins/media/full.png)
+![image](https://raw.githubusercontent.com/eleven-123/jquery-plugins/master/media/full.png)
 
 3、JavaScript入口函数
 ~~~javascript
@@ -141,7 +141,7 @@ $.fn.fullpage   比如
       complete: function(){} 
   }); 
 ~~~
-![image](https://github.com/eleven-123/jquery-plugins/media/esse.png)
+![image](https://raw.githubusercontent.com/eleven-123/jquery-plugins/master/media/esse.png)
 
 
 
