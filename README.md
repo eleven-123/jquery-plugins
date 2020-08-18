@@ -1,6 +1,6 @@
 # jquery 插件
 + [fullpage 全屏滚动插件](#fullpage-全屏滚动插件)
-+ [jQuery Easing.js插件](#Easing.js插件)
++ [jQuery Easing.js插件](#Easing-插件)
 + [Stellar 视差滚动插件](#Stellar-视差滚动插件)
 + [360度3D 旋转插件](#360度3D-旋转插件)
 
@@ -119,7 +119,7 @@ $.fn.fullpage   比如
 
 
 
-## Easing.js插件
+## Easing 插件
 介绍：easing是jquery的一个插件，使用它可以创建更加绚丽的动画效果。
 环境：因为easing是jQuery的插件，所以必须是在引入jquery之后再引入它
 
